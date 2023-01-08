@@ -10,6 +10,6 @@ public class DevController {
 	@GetMapping("/main")
 	@ResponseBody
 	public String main() {
-		return "테스트를 위한 변경?!!";
+		return "테스트를 위한 변경?@@!!";
 	}
 }
